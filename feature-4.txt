@@ -1,1 +1,1 @@
-this is just a demo for the merge function
+this is just a demo. This file is to show git branch and git merge.
